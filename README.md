@@ -21,5 +21,10 @@
          <a href=https://www.notion.so/1233602bac8580ed9154db650af16933> <img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=Notion&logoColor=white&link=https://www.notion.so/1233602bac8580ed9154db650af16933"> </a>
           </div>  <br> 
     <div align= "center">  </div> 
+
+
+        [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yujeongoyj)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=yujeongoyj&hide=contribs,prs&show_icons=true&theme=gatewwhite)
+
     </div>
     
